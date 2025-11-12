@@ -1,2 +1,2 @@
 
-console.log("Helo Bab ji");
+console.log("Helo ji");
